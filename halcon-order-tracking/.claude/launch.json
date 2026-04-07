@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Laravel Dev Server",
+      "runtimeExecutable": "/Users/andrewtran/Library/Application Support/Herd/bin/php74",
+      "runtimeArgs": ["-d", "pcre.jit=0", "artisan", "serve", "--port=8000"],
+      "port": 8000
+    }
+  ]
+}
